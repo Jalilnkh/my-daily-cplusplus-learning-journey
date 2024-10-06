@@ -7,7 +7,7 @@ Welcome to my C++ learning repository! Here, I will document my progress and sha
 - You can find my progress in the various topics as I explore C++ step by step.
 
 ### Topics Covered:
-1. [C++ Installation]
+1. [C++ Installation](https://github.com/Jalilnkh/my-daily-cplusplus-learning-journey/wiki/Using-C---on-Linux-in-VS-Code)
 2. in progress ...!
 
 Stay tuned as I explore more topics and dive deeper into C++ programming!
