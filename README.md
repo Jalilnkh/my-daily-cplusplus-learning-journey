@@ -10,7 +10,7 @@ Welcome to my C++ learning repository! Here, I will document my progress and sha
 Week 1: Week 1: Hello World in C++
 1. [C++ Installation](https://github.com/Jalilnkh/my-daily-cplusplus-learning-journey/wiki/Using-C---on-Linux-in-VS-Code)
 2. [Learn fundamentals: I am learning how to print and assign values. ](https://github.com/Jalilnkh/my-daily-cplusplus-learning-journey/blob/main/Week%201%3A%20Hello%20World%20in%20C%2B%2B/exercise_1.cpp)
-3. [Learning Objectives: Boolean Operators] (https://github.com/Jalilnkh/my-daily-cplusplus-learning-journey/blob/main/Week%201%3A%20Hello%20World%20in%20C%2B%2B/boolean_operators.cpp)
-4. [Conditional statements ] (https://github.com/Jalilnkh/my-daily-cplusplus-learning-journey/blob/main/Week%201%3A%20Hello%20World%20in%20C%2B%2B/conditionals.cpp)
+3. [Learning Objectives: Boolean Operators](https://github.com/Jalilnkh/my-daily-cplusplus-learning-journey/blob/main/Week%201%3A%20Hello%20World%20in%20C%2B%2B/boolean_operators.cpp)
+4. [Conditional statements ](https://github.com/Jalilnkh/my-daily-cplusplus-learning-journey/blob/main/Week%201%3A%20Hello%20World%20in%20C%2B%2B/conditionals.cpp)
 
 Stay tuned as I explore more topics and dive deeper into C++ programming!
