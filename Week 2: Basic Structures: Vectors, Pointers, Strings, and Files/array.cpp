@@ -1,8 +1,11 @@
 /*
 What Is an Array?
 An array is a data structure that stores a collection of data such as ints, doubles, strings, etc. 
+An array inside another array is called a 2D array. A 2D arrays is symbolic of a table where there are rows and columns. 
 1- Array Creation
 2- Array Modification
+3- 2D Array
+
 */
 
 #include <iostream>
@@ -22,6 +25,13 @@ int main() {
 
     grades[2] = 88; //88 will replace 48 at index 2
     cout << grades[2] << endl;
+    // 3- 2D Array  
+    cout << "3- 2D Array" << endl;
+    string names[ ][5] = { {"Alan", "Bob", "Carol", "David", "Ellen"},
+                       {"Fred", "Grace", "Henry", "Ian", "Jen"},
+                       {"Kelly", "Liam", "Mary", "Nancy", "Owen"} };
+    
+    cout << names[1][2] << endl;
   //add code above this line
   
   return 0;
