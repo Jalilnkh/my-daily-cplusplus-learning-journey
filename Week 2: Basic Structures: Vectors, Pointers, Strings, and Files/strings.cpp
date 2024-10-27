@@ -14,12 +14,19 @@ to start followed by a comma followed by the number of characters you want the s
 Escape Characters
 An escape character is a character that has a different interpretation than what you see in a string. 
 Escape characters always start with a backslash (\).
-
+Comparing with ==
+The == operator can be used with strings just like it is with numbers or boolean values. 
+7- Lexicographical Order
+In C++, strings can be compared lexicographically, 
+meaning they can be compared according to how they will appear in the dictionary. 
+You can use the compare() method to determine which of two strings comes first. 
 1- String Length
 2- Mutability
 3- The find() Function
 4- The substr() Function
 5- Escape Characters
+6- Comparing with ==
+7- Lexicographical Order
 
 */
 
@@ -57,6 +64,28 @@ int main() {
     cout << "5- Escape Characters" << endl; 
     string my_string5 = "Hello\nworld";
     cout << my_string5 << endl;
+    // #6- Comparing with ==
+    cout << "6- Comparing with ==" << endl;
+    string string61 = "It's Friday!";
+    string string62 = "It's Friday!";
+
+    cout << (string61 == string62); 
+    // 7- Lexicographical Order
+    cout << "7- Lexicographical Order" << endl;
+    string string71 = "123";
+    string string72 = "9";
+
+    if (string71.compare(string72) < 0) {
+      cout << "string1 comes first" << endl;
+    }
+    else if (string71.compare(string72) > 0) {
+      cout << "string2 comes first" << endl;
+    }
+    else {
+      cout << "the strings are equal" << endl;
+    }
+
+
   //add code above this line
   
   return 0;
