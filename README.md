@@ -15,4 +15,9 @@ Week 1: Week 1: Hello World in C++ [details here](https://github.com/Jalilnkh/my
 4. [Conditional statements ](https://github.com/Jalilnkh/my-daily-cplusplus-learning-journey/blob/main/Week%201%3A%20Hello%20World%20in%20C%2B%2B/conditionals.cpp)
    - [Exercise 2](https://github.com/Jalilnkh/my-daily-cplusplus-learning-journey/blob/main/Week%201%3A%20Hello%20World%20in%20C%2B%2B/exersice_2.cpp)
 
+# Week 2: Basic Structures: Vectors, Pointers, Strings, and Files
+1. [Arrays]()
+2. [Pointers]()
+3. [Strings]()
+
 Stay tuned as I explore more topics and dive deeper into C++ programming!
