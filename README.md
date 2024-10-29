@@ -7,7 +7,7 @@ Welcome to my C++ learning repository! Here, I will document my progress and sha
 - You can find my progress in the various topics as I explore C++ step by step.
 
 ### Topics Covered:
-Week 1: Week 1: Hello World in C++ [details here](https://github.com/Jalilnkh/my-daily-cplusplus-learning-journey/tree/main/Week%201%3A%20Hello%20World%20in%20C%2B%2B)
+### Week 1: Week 1: Hello World in C++ [details here](https://github.com/Jalilnkh/my-daily-cplusplus-learning-journey/tree/main/Week%201%3A%20Hello%20World%20in%20C%2B%2B)
 1. [C++ Installation](https://github.com/Jalilnkh/my-daily-cplusplus-learning-journey/wiki/Using-C---on-Linux-in-VS-Code)
 2. [Learn fundamentals: I am learning how to print and assign values. ](https://github.com/Jalilnkh/my-daily-cplusplus-learning-journey/blob/main/Week%201%3A%20Hello%20World%20in%20C%2B%2B/exercise_1.cpp)
 3. [Learning Objectives: Boolean Operators](https://github.com/Jalilnkh/my-daily-cplusplus-learning-journey/blob/main/Week%201%3A%20Hello%20World%20in%20C%2B%2B/boolean_operators.cpp)
@@ -15,9 +15,10 @@ Week 1: Week 1: Hello World in C++ [details here](https://github.com/Jalilnkh/my
 4. [Conditional statements ](https://github.com/Jalilnkh/my-daily-cplusplus-learning-journey/blob/main/Week%201%3A%20Hello%20World%20in%20C%2B%2B/conditionals.cpp)
    - [Exercise 2](https://github.com/Jalilnkh/my-daily-cplusplus-learning-journey/blob/main/Week%201%3A%20Hello%20World%20in%20C%2B%2B/exersice_2.cpp)
 
-# Week 2: Basic Structures: Vectors, Pointers, Strings, and Files
-1. [Arrays]()
-2. [Pointers]()
-3. [Strings]()
+### Week 2: Basic Structures: Vectors, Pointers, Strings, and Files
+1. [Arrays](https://github.com/Jalilnkh/my-daily-cplusplus-learning-journey/blob/main/Week%202%3A%20Basic%20Structures%3A%20Vectors%2C%20Pointers%2C%20Strings%2C%20and%20Files/array.cpp)
+2. [Pointers](https://github.com/Jalilnkh/my-daily-cplusplus-learning-journey/blob/main/Week%202%3A%20Basic%20Structures%3A%20Vectors%2C%20Pointers%2C%20Strings%2C%20and%20Files/pointer.cpp)
+3. [Strings](https://github.com/Jalilnkh/my-daily-cplusplus-learning-journey/blob/main/Week%202%3A%20Basic%20Structures%3A%20Vectors%2C%20Pointers%2C%20Strings%2C%20and%20Files/strings.cpp)
+4. [Vector](https://github.com/Jalilnkh/my-daily-cplusplus-learning-journey/blob/main/Week%202%3A%20Basic%20Structures%3A%20Vectors%2C%20Pointers%2C%20Strings%2C%20and%20Files/vector.cpp)
 
 Stay tuned as I explore more topics and dive deeper into C++ programming!
