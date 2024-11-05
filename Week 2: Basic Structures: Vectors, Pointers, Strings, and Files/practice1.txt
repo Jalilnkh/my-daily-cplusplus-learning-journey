@@ -1,0 +1,2 @@
+This is Jalil who is learning c++ my email is Jalil@kartalol.com
+This txt file is for testing purposes.
