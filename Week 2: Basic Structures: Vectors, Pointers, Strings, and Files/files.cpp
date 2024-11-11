@@ -11,9 +11,13 @@ Below is a basic template of code that returns specified errors to the user when
 Reading a File
 Let’s start reading from a file that contains some text. First set the string path to student/text/readpractice.txt. 
 Then open the file and handle any opening errors. To read from a file, use the getline() function. 
+Writing a File
+When writing to a file, you’ll want to use ofstream instead of ifstream. 
+Like before, create your string path, open the file, and check for whether it can be opened successfully.
 1- Opening and Closing Files
 2- File Error Handling
 3- Reading a File
+4- Writing a File
 */
 
 #include <iostream>
@@ -73,7 +77,23 @@ int main() {
     catch (exception& e) {
     cerr << e.what() << endl;
     }
+    cout << "4- Writing a File" << endl;
+    string path4 = "practice1.txt";
 
+    try {
+    ofstream file4;
+    file4.open(path4);
+    if (!file4) {
+        throw runtime_error("File failed to open.");
+    }
+    file4 << "Hello there";
+    file4.close();
+    cerr << "Finished writing to file.";
+    }
+    
+    catch (exception& e) { //catch error
+    cerr << e.what() << endl;
+    }
     //add code above this line
   
   return 0;
