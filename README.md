@@ -20,5 +20,7 @@ Welcome to my C++ learning repository! Here, I will document my progress and sha
 2. [Pointers](https://github.com/Jalilnkh/my-daily-cplusplus-learning-journey/blob/main/Week%202%3A%20Basic%20Structures%3A%20Vectors%2C%20Pointers%2C%20Strings%2C%20and%20Files/pointer.cpp)
 3. [Strings](https://github.com/Jalilnkh/my-daily-cplusplus-learning-journey/blob/main/Week%202%3A%20Basic%20Structures%3A%20Vectors%2C%20Pointers%2C%20Strings%2C%20and%20Files/strings.cpp)
 4. [Vector](https://github.com/Jalilnkh/my-daily-cplusplus-learning-journey/blob/main/Week%202%3A%20Basic%20Structures%3A%20Vectors%2C%20Pointers%2C%20Strings%2C%20and%20Files/vector.cpp)
+5. [Reading and Writing Files](https://github.com/Jalilnkh/my-daily-cplusplus-learning-journey/blob/main/Week%202%3A%20Basic%20Structures%3A%20Vectors%2C%20Pointers%2C%20Strings%2C%20and%20Files/files.cpp)
+
 
 Stay tuned as I explore more topics and dive deeper into C++ programming!
