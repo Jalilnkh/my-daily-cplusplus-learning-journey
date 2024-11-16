@@ -6,6 +6,8 @@ All of the code for the function body should be enclosed within curly braces {} 
 C++ Code Documentation
 Including C++ code documentation prior to function definitions is standard. 
 Doing so enables users to gain clarity on the purpose of the function, any parameters that are used, and what the function returns.
+Doxygen Tool
+There is an online tool called Doxygen that can help generate C++ code documentation. 
 1- Calling a Function
 2- C++ Code Documentation
 */
@@ -30,10 +32,7 @@ int main() {
      * @param   specify parameters if any
      * @return  specify return value if any
     */
-    GreetTwice()
-    // 3- 2D Array  
-    cout << "3- 2D Array" << endl;
-    
+    GreetTwice()    
   //add code above this line
   
   return 0;
