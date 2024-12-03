@@ -22,5 +22,12 @@ Welcome to my C++ learning repository! Here, I will document my progress and sha
 4. [Vector](https://github.com/Jalilnkh/my-daily-cplusplus-learning-journey/blob/main/Week%202%3A%20Basic%20Structures%3A%20Vectors%2C%20Pointers%2C%20Strings%2C%20and%20Files/vector.cpp)
 5. [Reading and Writing Files](https://github.com/Jalilnkh/my-daily-cplusplus-learning-journey/blob/main/Week%202%3A%20Basic%20Structures%3A%20Vectors%2C%20Pointers%2C%20Strings%2C%20and%20Files/files.cpp)
 
+# Week 3: C++ Object Basics: Functions, Recursion, and Objects
+1. [Functions](https://github.com/Jalilnkh/my-daily-cplusplus-learning-journey/blob/main/Week%203%3A%20C%2B%2B%20Object%20Basics%3A%20Functions%2C%20Recursion%2C%20and%20Objects/functions.cpp)
+2. [Recursion](https://github.com/Jalilnkh/my-daily-cplusplus-learning-journey/blob/main/Week%203%3A%20C%2B%2B%20Object%20Basics%3A%20Functions%2C%20Recursion%2C%20and%20Objects/recursion.cpp)
+3. [Class functions](https://github.com/Jalilnkh/my-daily-cplusplus-learning-journey/blob/main/Week%203%3A%20C%2B%2B%20Object%20Basics%3A%20Functions%2C%20Recursion%2C%20and%20Objects/class_functions.cpp)
+4. [Class object](https://github.com/Jalilnkh/my-daily-cplusplus-learning-journey/blob/main/Week%203%3A%20C%2B%2B%20Object%20Basics%3A%20Functions%2C%20Recursion%2C%20and%20Objects/class_object.cpp) 
+
+
 
 Stay tuned as I explore more topics and dive deeper into C++ programming!
