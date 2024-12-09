@@ -6,9 +6,11 @@ This type of function has a special name, a getter (also called an accessor).
 Setters
 Setters are the compliment to getters in that they allow you to set the value of a private attribute. 
 Setter functions are also called mutators. 
+Data Validation
+Data validation is the process of asking if this data is appropriate for its intended use.
 1- Getters
 2- Setters
-3- 
+3- Data Validation
 */
 #include <iostream>
 using namespace std;
@@ -47,8 +49,8 @@ int main() {
     cout << "2- Setters" << endl;
     model.SetModel("Idone");
     cout << model.GetModel() << endl;
-    // 3- The “const” Keyword
-    cout << "3- The “const” Keyword" << endl;
+    // 3- Data Validation
+    cout << "3- Data Validation" << endl;
 
     //add code above this line
 
