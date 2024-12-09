@@ -47,9 +47,6 @@ int main() {
   cout << "2- Public and Private Function" << endl;
   // Now if we call private we will get error:
   ec.PrivateFunction();
-  // 3- The “const” Keyword
-  cout << "3- The “const” Keyword" << endl;
-
 //add code above this line
   
   return 0;
