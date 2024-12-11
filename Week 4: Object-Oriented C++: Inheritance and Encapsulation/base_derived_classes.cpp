@@ -3,8 +3,11 @@ Inheritance
 Inheritance is one of the key features of Object-oriented programming in C++.
  It allows us to create a new class (derived class) from an existing class (base class). 
 The derived class inherits the features from the base class and can have additional features of its own.
+Multiple Inheritance
+Multiple inheritance is a condition where a class inherits from more than one base class. 
+C++ allows multiple inheritance for both associated and unassociated base classes;
 1- Inheritance
-2- 
+2- Multiple Inheritance
 3-  
 */
 #include <iostream>
@@ -41,6 +44,34 @@ class Derived : public Base {
     string s_derived;
 };
 
+class Human {
+  public:
+    Human(string n) {
+      name = n;
+    }
+
+  private:
+    string name;
+};
+
+class Adult : public Human {
+  public:
+    Adult(string n, int c) : Human(n) {
+      num_children = c;
+    }
+    int GetNumChildren(){
+        return num_children;
+    }
+
+  private:
+    int num_children;
+};
+
+class Parent : public Adult {
+  public:
+    Parent(string n, int c) : Adult(n, c) {}
+    
+};
 
 int main() {
   
@@ -50,8 +81,10 @@ int main() {
     string s_main;
     Derived dc;
     dc.ReturnPublic(s_main);
-    // 2- 
-    cout << "2- " << endl;
+    // 2- Multiple Inheritance
+    cout << "2- Multiple Inheritance" << endl;
+    Parent pr("abi", 6);
+    cout << pr.Adult::GetNumChildren() << endl;
     // 3- 
     cout << "3- " << endl;
 
