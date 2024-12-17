@@ -17,7 +17,17 @@ int main() {
     //add code below this line
     // 1- Polymorphism
     cout << "1- Polymorphism" << endl;
-
+    int a = 5;
+    int b = 10;
+    cout << (a + b) << endl;
+        
+    string c = "5";
+    string d = "10";
+    cout << (c + d) << endl;
+    
+    bool e = true;
+    bool f = false;
+  cout << (e + f) << endl;
     // 2- 
     cout << "2- " << endl;
     // 3- 
