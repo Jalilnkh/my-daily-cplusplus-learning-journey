@@ -2,8 +2,10 @@
 What are Structs?
 Structs are like classes, except everything inside a struct is public. 
 Therefore, anything external to the struct can alter its members.
+Setting Values with Enums
+Enums are similar to switch-case statements where particular values are assigned to particular cases.
 1- Structs
-2-
+2-Enums
 3- 
 */
 #include <iostream>
@@ -16,6 +18,7 @@ struct Person {
     double salary;
 };
 
+enum grades {A = 90, B = 80, C = 70, D = 60};
 
 int main() {
   
@@ -25,10 +28,13 @@ int main() {
   Person p;
   p.age = 50;
   cout << p.age << endl;
-  // 2- Public and Private Function
-  cout << "2- Public and Private Function" << endl;
-  // Now if we call private we will get error:
-  ec.PrivateFunction();
+  // 2- Enums
+  cout << "2- Enums" << endl;
+  grades grade;
+
+  grade = A;
+  cout << "Grade = " << grade << endl;
+    
 //add code above this line
   
   return 0;
